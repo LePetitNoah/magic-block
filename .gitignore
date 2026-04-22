@@ -1,0 +1,18 @@
+# Folders
+/.mixin.out
+/crash-reports
+/downloads
+/logs
+/saves
+/simplebackups
+/skyblockbuilder
+
+# Files
+/.curseclient
+/command_history.txt
+/malum_extra.json
+/minecraftinstance.json
+/patchouli_data.json
+/TrashSlotSaveState.json
+/usercache.json
+/usernamecache.json
