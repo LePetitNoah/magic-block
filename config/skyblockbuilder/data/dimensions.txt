@@ -1,8 +1,0 @@
-minecraft:overworld
-eternal_starlight:starlight
-aether:the_aether
-compactmachines:compact_world
-minecraft:the_nether
-minecraft:the_end
-twilightforest:twilight_forest
-ae2:spatial_storage
