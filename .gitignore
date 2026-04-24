@@ -1,3 +1,4 @@
+# Mldeg gitignore
 /modernfix/
 /backups/
 /config/appliedenergistics2/client.json
@@ -57,3 +58,6 @@
 /quests_structures
 /kubejs/exported/
 /kubejs/README.txt
+
+# My gitignore
+/simplebackups/
