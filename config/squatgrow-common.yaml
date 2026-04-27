@@ -8,7 +8,8 @@ enableDirtToGrass: true
 enableMysticalCrops: true
 hoeTakesDamage: false
 ignoreList: ['minecraft:grass_block', 'minecraft:grass', 'minecraft:short_grass',
-  'minecraft:tall_grass', 'minecraft:netherrack', 'minecraft:warped_nylium', 'minecraft:crimson_nylium']
+  'minecraft:tall_grass', 'minecraft:netherrack', 'minecraft:warped_nylium', 'minecraft:crimson_nylium',
+  'malum:blighted_earth']
 randomTickMultiplier: 4
 range: 3
 requireHoe: false
