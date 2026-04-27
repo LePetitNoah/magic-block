@@ -1,0 +1,5 @@
+/locate structure malum:weeping_well
+/tp @s -352 ~ -704
+/effect give Nirgol minecraft:night_vision infinite
+/tp @s -352 ~ -704
+/give Nirgol minecraft:structure_block

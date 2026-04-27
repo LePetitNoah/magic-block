@@ -138,23 +138,47 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:sheep": true
-			"minecraft:witch": true
-			"minecraft:enderman": true
-			"minecraft:squid": true
 			"minecraft:skeleton": true
-			"ars_nouveau:starbuncle": true
-			"minecraft:pig": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:zombie_villager": true
+			"minecraft:bee": true
 			"minecraft:bat": true
-			"minecraft:creeper": true
-			"minecraft:zombie": true
-			"knightquest:ratman": true
-			"eternal_starlight:the_gatekeeper": true
-			"forbidden_arcanus:lost_soul": true
-			"minecraft:spider": true
-			"minecraft:chicken": true
+			"minecraft:wolf": true
+			"aquaculture:perch": false
 			"minecraft:parrot": true
+			"knightquest:swampman": true
+			"aquaculture:piranha": false
+			"knightquest:ratman": true
+			"minecraft:tropical_fish": false
+			"forbidden_arcanus:lost_soul": true
+			"minecraft:witch": true
+			"minecraft:cow": true
+			"minecraft:zombie": true
+			"aquaculture:brown_trout": false
+			"eternal_starlight:the_gatekeeper": true
+			"minecraft:chicken": true
+			"minecraft:panda": true
+			"minecraft:squid": true
+			"minecraft:glow_squid": true
+			"minecraft:spider": true
+			"minecraft:sheep": true
+			"minecraft:creeper": true
+			"aquaculture:catfish": false
+			"aquaculture:tambaqui": false
+			"aquaculture:smallmouth_bass": false
+			"minecraft:drowned": true
+			"minecraft:pig": true
+			"aquaculture:arapaima": true
+			"aquaculture:gar": false
 			"knightquest:bad_patch": true
+			"aquaculture:minnow": false
+			"minecraft:enderman": true
+			"ars_nouveau:drygmy": true
+			"aquaculture:muskellunge": false
+			"minecraft:axolotl": true
+			"ars_nouveau:starbuncle": true
+			"aquaculture:bluegill": false
+			"aquaculture:carp": false
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
