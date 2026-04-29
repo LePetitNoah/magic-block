@@ -11,7 +11,9 @@ ServerEvents.recipes(event => {
 
     const customRecipesToRemove = [
         'malum:spirit_infusion/hex_ash',
+        'malum:spirit_infusion/imitation_flesh',
         'malum:create/washing/crushed_soulstone',
+        'malum:bonemeal_from_grim_talc',
     ]
 
     customRecipesToRemove.forEach(id => {
