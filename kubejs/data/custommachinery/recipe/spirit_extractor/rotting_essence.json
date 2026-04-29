@@ -1,0 +1,33 @@
+{
+    "type": "custommachinery:custom_machine",
+    "machine": "custommachinery:spirit_extractor",
+    "time": 20,
+    "requirements": [
+        {
+            "type": "custommachinery:item",
+            "mode": "input",
+            "ingredient": {
+                "item": "malum:earthen_spirit",
+                "count": 1
+            }
+        },
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "ingredient": {
+                "item": "malum:rotting_essence",
+                "count": 1
+            }
+        },
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "ingredient": {
+                "item": "malum:hex_ash",
+                "count": 1
+            },
+            "chance": 0.5
+        }
+
+    ]
+}
