@@ -1,0 +1,66 @@
+{
+  "name": {
+    "text": {
+      "translate": "Spirit Extractor"
+    }
+  },
+  "appearance": {
+    "custommachinery:block": "kubejs:spirit_extractor",
+    "custommachinery:item": "kubejs:spirit_extractor"
+  },
+  "components": [
+    {
+      "type": "custommachinery:item",
+      "id": "input_slot",
+      "mode": "input"
+    },
+    {
+      "type": "custommachinery:item",
+      "config": {
+        "TOP": "INPUT",
+        "BOTTOM": "INPUT",
+        "FRONT": "INPUT",
+        "RIGHT": "INPUT",
+        "BACK": "INPUT",
+        "LEFT": "INPUT"
+      },
+      "id": "output_slot",
+      "mode": "output"
+    }
+  ],
+  "gui": [
+    {
+      "type": "custommachinery:background",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 47,
+      "y": 109
+    },
+    {
+      "type": "custommachinery:progress",
+      "id": "progress_bar",
+      "x": 103,
+      "y": 33,
+      "width": 50
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input_slot",
+      "x": 70,
+      "y": 30,
+      "width": 21,
+      "height": 21
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output_slot",
+      "x": 165,
+      "y": 30,
+      "width": 21,
+      "height": 21
+    }
+  ]
+}
