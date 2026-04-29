@@ -5,8 +5,20 @@
     }
   },
   "appearance": {
-    "custommachinery:block": "kubejs:spirit_extractor",
-    "custommachinery:item": "kubejs:spirit_extractor"
+    "running": {
+      "custommachinery:block": "kubejs:spirit_extractor_running",
+      "custommachinery:item": "kubejs:spirit_extractor_running"
+    },
+    "errored": {
+      "custommachinery:block": "kubejs:spirit_extractor_errored",
+      "custommachinery:item": "kubejs:spirit_extractor_errored"
+    },
+    "custommachinery:block": "kubejs:spirit_extractor_idle",
+    "custommachinery:item": "kubejs:spirit_extractor_idle",
+    "idle": {
+      "custommachinery:block": "kubejs:spirit_extractor_idle",
+      "custommachinery:item": "kubejs:spirit_extractor_idle"
+    }
   },
   "components": [
     {
