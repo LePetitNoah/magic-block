@@ -1,7 +1,7 @@
 {
     "type": "custommachinery:custom_machine",
     "machine": "custommachinery:spirit_extractor",
-    "time": 20,
+    "time": 10,
     "requirements": [
         {
             "type": "custommachinery:item",
