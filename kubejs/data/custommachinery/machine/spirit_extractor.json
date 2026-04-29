@@ -16,15 +16,12 @@
     },
     {
       "type": "custommachinery:item",
-      "config": {
-        "TOP": "INPUT",
-        "BOTTOM": "INPUT",
-        "FRONT": "INPUT",
-        "RIGHT": "INPUT",
-        "BACK": "INPUT",
-        "LEFT": "INPUT"
-      },
-      "id": "output_slot",
+      "id": "output_slot_1",
+      "mode": "output"
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "output_slot_2",
       "mode": "output"
     }
   ],
@@ -56,11 +53,23 @@
     },
     {
       "type": "custommachinery:slot",
-      "id": "output_slot",
+      "id": "output_slot_1",
       "x": 165,
       "y": 30,
       "width": 21,
       "height": 21
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output_slot_2",
+      "x": 192,
+      "y": 30,
+      "width": 21,
+      "height": 21
     }
-  ]
+  ],
+  "processor": {
+    "type": "custommachinery:machine",
+    "cooldown": 5
+  }
 }
