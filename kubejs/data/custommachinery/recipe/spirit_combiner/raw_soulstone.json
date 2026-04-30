@@ -1,0 +1,23 @@
+{
+    "type": "custommachinery:custom_machine",
+    "machine": "custommachinery:spirit_combiner",
+    "time": 20,
+    "requirements": [
+        {
+            "type": "custommachinery:item",
+            "mode": "input",
+            "ingredient": {
+                "item": "malum:eldritch_spirit",
+                "count": 64
+            }
+        },
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "ingredient": {
+                "item": "malum:raw_soulstone",
+                "count": 1
+            }
+        }
+    ]
+}
