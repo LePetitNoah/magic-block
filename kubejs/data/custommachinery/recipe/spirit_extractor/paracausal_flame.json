@@ -8,7 +8,7 @@
             "mode": "input",
             "ingredient": {
                 "item": "malum:infernal_spirit",
-                "count": 1
+                "count": 16
             }
         },
         {
@@ -17,7 +17,8 @@
             "ingredient": {
                 "item": "malum:paracausal_flame",
                 "count": 1
-            }
+            },
+            "chance": 0.8
         },
         {
             "type": "custommachinery:item",
@@ -26,7 +27,7 @@
                 "item": "malum:hex_ash",
                 "count": 1
             },
-            "chance": 0.5
+            "chance": 0.75
         }
 
     ]
