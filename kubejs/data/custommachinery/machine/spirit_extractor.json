@@ -46,38 +46,38 @@
     {
       "type": "custommachinery:player_inventory",
       "x": 47,
-      "y": 109
+      "y": 100
     },
     {
       "type": "custommachinery:progress",
       "id": "progress_bar",
-      "x": 103,
-      "y": 33,
-      "width": 50
+      "x": 90,
+      "y": 41,
+      "width": 56
     },
     {
       "type": "custommachinery:slot",
       "id": "input_slot",
-      "x": 70,
-      "y": 30,
-      "width": 21,
-      "height": 21
+      "x": 60,
+      "y": 40,
+      "width": 18,
+      "height": 18
     },
     {
       "type": "custommachinery:slot",
       "id": "output_slot_1",
-      "x": 165,
-      "y": 30,
-      "width": 21,
-      "height": 21
+      "x": 158,
+      "y": 40,
+      "width": 18,
+      "height": 18
     },
     {
       "type": "custommachinery:slot",
       "id": "output_slot_2",
-      "x": 192,
-      "y": 30,
-      "width": 21,
-      "height": 21
+      "x": 178,
+      "y": 40,
+      "width": 18,
+      "height": 18
     }
   ],
   "processor": {
