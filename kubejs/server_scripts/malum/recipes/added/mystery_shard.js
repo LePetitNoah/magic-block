@@ -22,6 +22,110 @@ ServerEvents.recipes(event => {
             }
         }
     )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:sacred_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:wicked_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:arcane_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:eldritch_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:aerial_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:infernal_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:earthen_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
+
+    event.custom(
+        {
+            "type": "malum:void_favor",
+            "input": {
+                "item": "malum:aqueous_spirit"
+            },
+            "result": {
+                "count": 1,
+                "id": "kubejs:mystery_spirit"
+            }
+        }
+    )
 })
 
 EntityEvents.spawned('item', event => {
