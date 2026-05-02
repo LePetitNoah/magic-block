@@ -1,0 +1,49 @@
+{
+  "name": {
+    "text": {
+      "translate": "Hex Ash Generator"
+    }
+  },
+  "appearance": {},
+  "components": {
+    "type": "custommachinery:item",
+    "config": {
+      "TOP": "INPUT",
+      "BOTTOM": "INPUT",
+      "FRONT": "INPUT",
+      "RIGHT": "INPUT",
+      "BACK": "INPUT",
+      "LEFT": "INPUT"
+    },
+    "id": "output_slot",
+    "mode": "output"
+  },
+  "gui": [
+    {
+      "type": "custommachinery:background",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 47,
+      "y": 100
+    },
+    {
+      "type": "custommachinery:progress",
+      "orientation": "TOP",
+      "x": 141,
+      "y": 50,
+      "width": 12,
+      "height": 20
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output_slot",
+      "x": 118,
+      "y": 50,
+      "width": 20,
+      "height": 20
+    }
+  ]
+}

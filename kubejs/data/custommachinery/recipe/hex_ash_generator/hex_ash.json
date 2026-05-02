@@ -1,0 +1,15 @@
+{
+    "type": "custommachinery:custom_machine",
+    "machine": "custommachinery:hex_ash_generator",
+    "time": 40,
+    "requirements": [
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "ingredient": {
+                "item": "malum:hex_ash",
+                "count": 1
+            }
+        }
+    ]
+}
